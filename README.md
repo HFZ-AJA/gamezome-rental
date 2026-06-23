@@ -1,6 +1,6 @@
-# 🎮 E-Sport Arena Management System
+# 🎮 rental warnet & ps
 
-Sistem Manajemen E-Sport Arena berbasis PHP Native dan MySQL untuk mengelola pengguna, booking perangkat, pembayaran, turnamen, promosi, serta laporan operasional.
+Sistem Manajemen rental warnet & ps berbasis PHP Native dan MySQL untuk mengelola pengguna, booking perangkat, pembayaran, turnamen, promosi, serta laporan operasional.
 
 ---
 
