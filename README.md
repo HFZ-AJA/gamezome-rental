@@ -1,0 +1,1 @@
+# gamezome-rental
