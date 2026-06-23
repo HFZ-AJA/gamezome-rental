@@ -24,7 +24,7 @@ Sistem Manajemen rental warnet & ps berbasis PHP Native dan MySQL untuk mengelol
 
 Branch:
 ```bash
-anggota/hafiz
+main (hafiz)
 ```
 
 Modul:
@@ -55,7 +55,7 @@ Fitur:
 Branch:
 
 ```bash
-anggota/rafli
+rafli
 ```
 
 Modul:
@@ -78,7 +78,7 @@ Fitur:
 Branch:
 
 ```bash
-anggota/dika
+dika
 ```
 
 Modul:
@@ -102,7 +102,7 @@ Fitur:
 Branch:
 
 ```bash
-anggota/iyas
+iyas
 ```
 
 Modul:
@@ -126,7 +126,7 @@ Fitur:
 Branch:
 
 ```bash
-anggota/mico
+mico
 ```
 
 Modul:
@@ -152,7 +152,7 @@ Fitur:
 Branch:
 
 ```bash
-anggota/adi
+adi
 ```
 
 Modul:
